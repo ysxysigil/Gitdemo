@@ -15,6 +15,16 @@
 - 常见问题解决方案
 - 完整命令速查表
 
+## 🎮 项目演示
+
+**[跳跃小游戏](gamestest/)** - HTML5 Canvas 跳跃游戏
+- 🏃 简单易玩的跳跃玩法
+- 🎨 精美的渐变色界面
+- 📊 分数系统和最高分记录
+- 📱 完全响应式设计
+- 🚀 可部署到 Vercel
+- 📖 [游戏说明](gamestest/README.md) | [部署指南](gamestest/DEPLOYMENT.md)
+
 ## 学习内容
 
 - ✅ Git 基本配置
